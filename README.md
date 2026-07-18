@@ -17,6 +17,8 @@ This is a Streamlit web application that extracts structured movie information f
 ```bash
 pip install -r requirements.txt
 ```
+##url
+https://movie-info-extractorr-3pbcut3pfnoxnxrzejfocr.streamlit.app/
 
 ## Run Locally
 
